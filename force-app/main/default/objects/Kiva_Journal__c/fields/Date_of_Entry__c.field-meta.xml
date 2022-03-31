@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Date_of_Entry__c</fullName>
+    <description>When the information (initial body entry) was first written up. (Since it could be synced from the field)</description>
+    <externalId>false</externalId>
+    <label>Date of Entry</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

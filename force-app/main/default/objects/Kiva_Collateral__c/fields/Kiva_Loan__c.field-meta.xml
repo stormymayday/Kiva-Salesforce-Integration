@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Kiva_Loan__c</fullName>
+    <externalId>false</externalId>
+    <label>Kiva Loan</label>
+    <referenceTo>Kiva_Loan__c</referenceTo>
+    <relationshipLabel>Kiva Collateral Items</relationshipLabel>
+    <relationshipName>Kiva_Collateral_Items</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Kiva_Loan__c</fullName>
+    <deleteConstraint>Restrict</deleteConstraint>
+    <description>This journal entry is under this Kiva loan record</description>
+    <externalId>false</externalId>
+    <label>Kiva Loan</label>
+    <referenceTo>Kiva_Loan__c</referenceTo>
+    <relationshipLabel>Kiva Journals</relationshipLabel>
+    <relationshipName>Kiva_Journals</relationshipName>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

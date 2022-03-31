@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>URL_for_confirmation__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>Click here to go to PA2 and confirm that this journal entry should be posted.</inlineHelpText>
+    <label>URL for confirmation</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Url</type>
+</CustomField>

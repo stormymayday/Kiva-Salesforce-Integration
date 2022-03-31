@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Initial_Body_Text__c</fullName>
+    <description>This is the information from the field. (This could be cobbled together from other fields as well if we want procedurally generated content)</description>
+    <externalId>false</externalId>
+    <label>Initial Body Text</label>
+    <length>32768</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>7</visibleLines>
+</CustomField>

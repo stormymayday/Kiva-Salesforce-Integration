@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Total_Monthly_Savings__c</fullName>
+    <externalId>false</externalId>
+    <label>Total Monthly Savings</label>
+    <summarizedField>Kiva_Loan_Participation__c.Monthly_Savings_Contribution__c</summarizedField>
+    <summaryForeignKey>Kiva_Loan_Participation__c.Kiva_Loan__c</summaryForeignKey>
+    <summaryOperation>sum</summaryOperation>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

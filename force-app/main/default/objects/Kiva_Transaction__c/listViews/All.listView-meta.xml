@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All</fullName>
+    <columns>NAME</columns>
+    <columns>CREATED_DATE</columns>
+    <columns>Date_due__c</columns>
+    <columns>Kiva_Payment_due__c</columns>
+    <columns>Kiva_Loan__c</columns>
+    <columns>Payment_received__c</columns>
+    <columns>RECORDTYPE</columns>
+    <columns>Total_Payment__c</columns>
+    <columns>CREATEDBY_USER</columns>
+    <filterScope>Everything</filterScope>
+    <label>All</label>
+</ListView>

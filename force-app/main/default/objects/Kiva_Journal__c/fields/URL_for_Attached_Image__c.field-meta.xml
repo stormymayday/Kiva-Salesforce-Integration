@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>URL_for_Attached_Image__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>This has to be a publicly accessible link, or else you will have to manually upload it in PA2</inlineHelpText>
+    <label>URL for Attached Image</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Url</type>
+</CustomField>
