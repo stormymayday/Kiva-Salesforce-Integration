@@ -38,3 +38,7 @@ $RECYCLE.BIN/
 
 # Local environment variables
 .env
+
+# iDE Specific Fields / ListViews
+# Kiva_Client_c
+force-app/main/default/objects/Kiva_Client__c/fields/MZ_Distrito__c.field-meta.xml
