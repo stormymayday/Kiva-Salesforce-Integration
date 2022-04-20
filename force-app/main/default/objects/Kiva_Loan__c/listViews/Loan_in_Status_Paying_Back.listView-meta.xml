@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Loan_in_Status_Paying_Back</fullName>
+    <columns>NAME</columns>
+    <columns>Loan_Price__c</columns>
+    <columns>Kiva_Status__c</columns>
+    <columns>Main_Applicant_Name__c</columns>
+    <columns>Category_of_Loan__c</columns>
+    <columns>Loan_Status__c</columns>
+    <columns>Adm_Fee__c</columns>
+    <columns>Loan_Application_Date__c</columns>
+    <columns>Loan_Approval_Date__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Kiva_Status__c</field>
+        <operation>equals</operation>
+        <value>Paying Back</value>
+    </filters>
+    <label>Loan in Status - Paying Back</label>
+</ListView>

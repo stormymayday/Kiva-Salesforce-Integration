@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Major_challenges_faced_by_the_group__c</fullName>
+    <externalId>false</externalId>
+    <label>Major challenges faced by the group</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Lack of finance</fullName>
+                <default>false</default>
+                <label>Lack of finance</label>
+            </value>
+            <value>
+                <fullName>Lack of technical knowledge</fullName>
+                <default>false</default>
+                <label>Lack of technical knowledge</label>
+            </value>
+            <value>
+                <fullName>Lack of access to markets</fullName>
+                <default>false</default>
+                <label>Lack of access to markets</label>
+            </value>
+            <value>
+                <fullName>Lack of Transportation</fullName>
+                <default>false</default>
+                <label>Lack of Transportation</label>
+            </value>
+            <value>
+                <fullName>Lack of technology, specify:</fullName>
+                <default>false</default>
+                <label>Lack of technology, specify:</label>
+            </value>
+            <value>
+                <fullName>Volatility of product prices</fullName>
+                <default>false</default>
+                <label>Volatility of product prices</label>
+            </value>
+            <value>
+                <fullName>Natural disasters</fullName>
+                <default>false</default>
+                <label>Natural disasters</label>
+            </value>
+            <value>
+                <fullName>Conflict within the group, cite major causes</fullName>
+                <default>false</default>
+                <label>Conflict within the group, cite major causes</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

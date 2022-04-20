@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Climate_smart_technologies_used__c</fullName>
+    <externalId>false</externalId>
+    <label>Climate smart technologies used</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Solar Pump</fullName>
+                <default>false</default>
+                <label>Solar Pump</label>
+            </value>
+            <value>
+                <fullName>Bokashi</fullName>
+                <default>false</default>
+                <label>Bokashi</label>
+            </value>
+            <value>
+                <fullName>Organic Fertilizers</fullName>
+                <default>false</default>
+                <label>Organic Fertilizers</label>
+            </value>
+            <value>
+                <fullName>Rainwater harvesting tank</fullName>
+                <default>false</default>
+                <label>Rainwater harvesting tank</label>
+            </value>
+            <value>
+                <fullName>Biogas unit</fullName>
+                <default>false</default>
+                <label>Biogas unit</label>
+            </value>
+            <value>
+                <fullName>Solar technologies</fullName>
+                <default>false</default>
+                <label>Solar technologies</label>
+            </value>
+            <value>
+                <fullName>Mulching</fullName>
+                <default>false</default>
+                <label>Mulching</label>
+            </value>
+            <value>
+                <fullName>Biomass cookstove</fullName>
+                <default>false</default>
+                <label>Biomass cookstove</label>
+            </value>
+            <value>
+                <fullName>Hydroponic farming</fullName>
+                <default>false</default>
+                <label>Hydroponic farming</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+            <value>
+                <fullName>None</fullName>
+                <default>false</default>
+                <label>None</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

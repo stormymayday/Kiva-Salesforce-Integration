@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>last_time_the_group_dispersed_the_saving__c</fullName>
+    <externalId>false</externalId>
+    <label>last time the group dispersed the saving</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>During the last 1 month</fullName>
+                <default>false</default>
+                <label>During the last 1 month</label>
+            </value>
+            <value>
+                <fullName>During the last 2-3 months</fullName>
+                <default>false</default>
+                <label>During the last 2-3 months</label>
+            </value>
+            <value>
+                <fullName>During the last 6 months</fullName>
+                <default>false</default>
+                <label>During the last 6 months</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

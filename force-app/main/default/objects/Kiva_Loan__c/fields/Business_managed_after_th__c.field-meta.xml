@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Business_managed_after_th__c</fullName>
+    <externalId>false</externalId>
+    <label>Business managed after Kiva Loan</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Buying and selling a new agriculture product</fullName>
+                <default>false</default>
+                <label>Buying and selling a new agriculture product</label>
+            </value>
+            <value>
+                <fullName>Bought a truck and started renting it to other producers/traders</fullName>
+                <default>false</default>
+                <label>Bought a truck and started renting it to other producers/traders</label>
+            </value>
+            <value>
+                <fullName>Started an inputs trading business</fullName>
+                <default>false</default>
+                <label>Started an inputs trading business</label>
+            </value>
+            <value>
+                <fullName>Seed multiplication/commercialization</fullName>
+                <default>false</default>
+                <label>Seed multiplication/commercialization</label>
+            </value>
+            <value>
+                <fullName>Milling, threshing services</fullName>
+                <default>false</default>
+                <label>Milling, threshing services</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+            <value>
+                <fullName>None</fullName>
+                <default>false</default>
+                <label>None</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

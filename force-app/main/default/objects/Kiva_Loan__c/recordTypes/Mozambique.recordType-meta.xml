@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mozambique</fullName>
+    <active>true</active>
+    <description>For Kiva Loan from Mozambique only</description>
+    <label>Mozambique</label>
+    <picklistValues>
+        <picklist>Activity__c</picklist>
+        <values>
+            <fullName>Adult Care%2C207</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Agriculture%2C120</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Air Conditioning%2C105</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Animal Sales%2C110</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Aquaculture%2C218</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Arts%2C125</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Auto Repair%2C92</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bakery%2C27</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Balut-Making%2C186</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Barber Shop%2C28</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Beauty Salon%2C49</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Beekeeping%2C217</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Beverages%2C220</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bicycle Repair%2C21</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bicycle Sales%2C76</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Blacksmith%2C108</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bookbinding%2C159</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bookstore%2C14</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bricks%2C79</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Butcher Shop%2C34</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cafe%2C25</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call Center%2C157</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Carpentry%2C43</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Catering%2C45</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cattle%2C56</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Celebrations%2C223</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cement%2C97</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cereals%2C112</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Charcoal Sales%2C60</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cheese Making%2C35</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Child Care%2C129</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cleaning Services%2C204</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cloth %26 Dressmaking Supplies%2C171</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Clothing Sales%2C9</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Clothing%2C183</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cobbler%2C101</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Communications%2C206</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Computer%2C219</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Computers%2C111</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Construction Supplies%2C24</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Construction%2C39</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consumer Goods%2C194</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cosmetics Sales%2C19</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Crafts%2C72</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dairy%2C61</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Decorations Sales%2C98</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dental%2C115</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Education provider%2C176</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Electrical Goods%2C131</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Electrician%2C116</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Electronics Repair%2C104</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Electronics Sales%2C51</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Embroidery%2C149</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Energy%2C208</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Entertainment%2C174</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Event Planning%2C226</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Farm Supplies%2C68</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Farming%2C31</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Film%2C164</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fish Selling%2C63</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fishing%2C89</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Florist%2C209</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Flowers%2C177</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Food Market%2C87</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Food Production%2FSales%2C67</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Food Stall%2C185</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Food%2C181</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fruits %26 Vegetables%2C169</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fuel%2FFirewood%2C130</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Funerals%2C222</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Furniture Making%2C33</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Games%2C175</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>General Store%2C57</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Goods Distribution%2C144</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Grocery Store%2C15</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hardware%2C81</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Health%2C123</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Higher education costs%2C200</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Home Appliances%2C195</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Home Energy%2C203</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Home Products Sales%2C29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hotel%2C146</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Internet Cafe%2C172</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Jewelry%2C170</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Knitting%2C165</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Land Rental%2C11</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Landscaping %2F Gardening%2C210</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Laundry%2C85</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Liquor Store %2F Off-License%2C162</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Livestock%2C73</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Machine Shop%2C95</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Machinery Rental%2C184</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Manufacturing%2C124</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Medical Clinic%2C70</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Metal Shop%2C52</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Milk Sales%2C91</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mobile Phones%2C117</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mobile Transactions%2C225</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Motorcycle Repair%2C135</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Motorcycle Transport%2C37</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Movie Tapes %26 DVDs%2C161</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Music Discs %26 Tapes%2C151</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Musical Instruments%2C78</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Musical Performance%2C17</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Natural Medicines%2C143</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Office Supplies%2C80</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Paper Sales%2C103</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Party Supplies%2C127</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Patchwork%2C75</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Perfumes%2C109</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Care Products%2C221</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Expenses%2C224</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Housing Expenses%2C134</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Medical Expenses%2C192</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Personal Products Sales%2C142</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pharmacy%2C65</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Phone Accessories%2C96</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Phone Repair%2C100</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Phone Use Sales%2C40</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Photography%2C62</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pigs%2C99</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Plastics Sales%2C26</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Poultry%2C102</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Primary%2Fsecondary school costs%2C158</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Printing%2C66</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Property%2C193</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pub%2C94</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Quarrying%2C119</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Recycled Materials%2C202</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Recycling%2C138</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Religious Articles%2C132</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Renewable Energy Products%2C201</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Restaurant%2C46</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Retail%2C88</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rickshaw%2C156</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Secretarial Services%2C114</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Services%2C121</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sewing%2C47</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shoe Sales%2C23</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Souvenir Sales%2C140</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Spare Parts%2C141</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sporting Good Sales%2C41</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tailoring%2C32</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Taxi%2C59</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Technology%2C216</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Textiles%2C86</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Timber Sales%2C128</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tourism%2C133</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Transportation%2C107</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Traveling Sales%2C12</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Upholstery%2C167</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Used Clothing%2C84</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Used Shoes%2C199</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Utilities%2C137</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Vehicle Repairs%2C54</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Vehicle%2C196</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Veterinary Sales%2C13</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Waste Management%2C163</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Water Distribution%2C18</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Weaving%2C145</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wedding Expenses%2C197</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Well digging%2C147</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wholesale%2C180</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Business_decision_maker__c</picklist>
+        <values>
+            <fullName>Jointly</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Someone Else</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yourself</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Business_managed_after_th__c</picklist>
+        <values>
+            <fullName>Bought a truck and started renting it to other producers%2Ftraders</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Buying and selling a new agriculture product</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Milling%2C threshing services</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>None</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Seed multiplication%2Fcommercialization</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Started an inputs trading business</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Business_of_the_majority_of_group_member__c</picklist>
+        <values>
+            <fullName>Ag-input retailers</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Producers</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Traders %28buy and sell vegetables%2Fgrains%29</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Category_of_Loan__c</picklist>
+        <values>
+            <fullName>Agricultural Equipment%2C96</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Agricultural Infrastructure%2C85</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Agriculture%2C18</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Climate_smart_technologies_used__c</picklist>
+        <values>
+            <fullName>Biogas unit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Biomass cookstove</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bokashi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hydroponic farming</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mulching</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>None</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Organic Fertilizers</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rainwater harvesting tank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Solar Pump</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Solar technologies</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Completed_2_Kiva_loan_cycles__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Completed_finance_training_as_a_group__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Experience_with_credit_before_Kiva__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Farm_decision_maker__c</picklist>
+        <values>
+            <fullName>Jointly</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Someone Else</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yourself</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Finance_or_business_trainings_completed__c</picklist>
+        <values>
+            <fullName>1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>4</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>More than 5</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Had_Challenges_repaying_in_past__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Household_purchases_decision_maker__c</picklist>
+        <values>
+            <fullName>Jointly</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Someone Else%5C</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yourself</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Impact_of_Kiva_Loan__c</picklist>
+        <values>
+            <fullName>Able to send children to school</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Access to Education for children</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Access to Sanitation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Access to Transportation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Access to better health facilities</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Access to clean water</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Acquired%2Fbuilt business assets %28shop%2C warehouse%2C etc%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bought household assets%2C specify</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Built a new house</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Improved financial discipline</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Improved house</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Improved household diet %28quantity and quality%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Improved product quality</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Increased business volume %28for those who are doing business%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Increased production</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Interest_Rate_Type__c</picklist>
+        <values>
+            <fullName>Declining Balance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Declining Balance with Equal Principle Installments</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Use Flat Interest Rate</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Kiva_Status__c</picklist>
+        <values>
+            <fullName>Defaulted</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Ended</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Expired</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Fundraising</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Inactive</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Issue</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Issue - Awaiting Correction</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Issue - Resubmitted</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Paying Back</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Raised</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Refunded</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Reviewed</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Loan_Status__c</picklist>
+        <values>
+            <fullName>Approved</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>New Application</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Recalled</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rejected</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Submit for Approval</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Loan_Type__c</picklist>
+        <values>
+            <fullName>Group</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Individual</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Loan_officer_provided_adequate_support__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Major_challenges_faced_by_the_group__c</picklist>
+        <values>
+            <fullName>Conflict within the group%2C cite major causes</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lack of Transportation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lack of access to markets</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lack of finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lack of technical knowledge</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lack of technology%2C specify%3A</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Natural disasters</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Volatility of product prices</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Members_provided_loans_within_the_group__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Net_Income_change_after_Kiva_Loan__c</picklist>
+        <values>
+            <fullName>Decreased</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Increased</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Remained the same</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Other_things_done_for_clients__c</picklist>
+        <values>
+            <fullName>Conduct technical trainings and advice</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Host an ECPA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Inform on weather%2C prices and market conditions</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lend parcel of land for them to produce</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Others</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Provide quality agricultural inputs on credit paid at harvest time</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Provide transport service at accessible price</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Position_in_the_Agricultural_Value_Chain__c</picklist>
+        <values>
+            <fullName>Agro-dealer</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Large Producer</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Small Producer %281-3 hectares or lesser in total%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Trader of Grains</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Trader of Inputs</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Trader of vegetables</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Prior_Loan_Institution__c</picklist>
+        <values>
+            <fullName>Commercial Bank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cooperative bank</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>GAPI</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Local moneylender</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Microfinance Institution</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non Profit Organization %28eg CARE%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Savings group</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Repeat_Unit__c</picklist>
+        <values>
+            <fullName>Day%28s%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Month%28s%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Week%28s%29</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Savings_Frequency__c</picklist>
+        <values>
+            <fullName>Per month</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Per week</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Sector__c</picklist>
+        <values>
+            <fullName>Agriculture</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Top_5_uses_of_loans__c</picklist>
+        <values>
+            <fullName>Buy ag-inputs for own use</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Buy food</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Capital for ag-trading business</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pay farm labor</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pay for other expenses%3A education%2C health%2C others</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Work_with_SHFs__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Would_take_another_Kiva_loan__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Years_since_the_Savings_Group_Formed__c</picklist>
+        <values>
+            <fullName>1 year</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>2 years</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>3 years</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>4 years</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>More than 5 years</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>attended_an_iDE_training__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>description_language_id__c</picklist>
+        <values>
+            <fullName>English</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>French</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Portuguese</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Russian</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Spanish</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>last_time_the_group_dispersed_the_saving__c</picklist>
+        <values>
+            <fullName>During the last 1 month</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>During the last 2-3 months</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>During the last 6 months</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
