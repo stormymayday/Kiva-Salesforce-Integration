@@ -60,7 +60,7 @@ force-app/main/default/objects/Kiva_Loan__c/listViews/All.listView-meta.xml
 force-app/main/default/objects/Kiva_Loan__c/listViews/MZ_Kiva_Approvers_Kiva_Loan.listView-meta.xml
 force-app/main/default/objects/Kiva_Loan__c/listViews/New_Application.listView-meta.xml
 force-app/main/default/objects/Kiva_Loan__c/listViews/Rejected_Loan_Applications.listView-meta.xml
-# Kiva_Loan__c Object Fields:
+# Kiva_Loan_Participation__c Object Fields:
 force-app/main/default/objects/Kiva_Loan_Participation__c/fields/distrito_moz__c.field-meta.xml
 
 
