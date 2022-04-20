@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Category_of_Loan__c</fullName>
+    <externalId>false</externalId>
+    <label>Category of Loan</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Agriculture,18</fullName>
+                <default>false</default>
+                <label>Agriculture,18</label>
+            </value>
+            <value>
+                <fullName>Agricultural Equipment,96</fullName>
+                <default>false</default>
+                <label>Agricultural Equipment,96</label>
+            </value>
+            <value>
+                <fullName>Agricultural Infrastructure,85</fullName>
+                <default>false</default>
+                <label>Agricultural Infrastructure,85</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

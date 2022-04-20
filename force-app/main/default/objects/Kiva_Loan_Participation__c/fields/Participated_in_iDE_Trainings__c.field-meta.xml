@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Participated_in_iDE_Trainings__c</fullName>
+    <externalId>false</externalId>
+    <label>Participated in iDE Trainings</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Agro Training</fullName>
+                <default>false</default>
+                <label>Agro Training</label>
+            </value>
+            <value>
+                <fullName>Financial Training</fullName>
+                <default>false</default>
+                <label>Financial Training</label>
+            </value>
+            <value>
+                <fullName>Farming as a Family Business</fullName>
+                <default>false</default>
+                <label>Farming as a Family Business</label>
+            </value>
+            <value>
+                <fullName>ECPA</fullName>
+                <default>false</default>
+                <label>ECPA</label>
+            </value>
+            <value>
+                <fullName>Kiva Training</fullName>
+                <default>false</default>
+                <label>Kiva Training</label>
+            </value>
+            <value>
+                <fullName>ADA Training</fullName>
+                <default>false</default>
+                <label>ADA Training</label>
+            </value>
+            <value>
+                <fullName>Business Training</fullName>
+                <default>false</default>
+                <label>Business Training</label>
+            </value>
+            <value>
+                <fullName>NTT</fullName>
+                <default>false</default>
+                <label>NTT</label>
+            </value>
+            <value>
+                <fullName>Savings group training</fullName>
+                <default>false</default>
+                <label>Savings group training</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>
