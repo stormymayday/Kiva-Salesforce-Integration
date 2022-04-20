@@ -55,6 +55,7 @@ force-app/main/default/objects/Kiva_Loan__c/fields/Posto_Admin_Code__c.field-met
 force-app/main/default/objects/Kiva_Loan__c/fields/Posto_Administrativo__c.field-meta.xml
 force-app/main/default/objects/Kiva_Loan__c/fields/Provincia__c.field-meta.xml
 # Kiva_Loan__c ListViews:
+force-app/main/default/objects/Kiva_Loan__c/fields/Distrito__c.field-meta.xml
 force-app/main/default/objects/Kiva_Loan__c/listViews/All_Group_Loans.listView-meta.xml
 force-app/main/default/objects/Kiva_Loan__c/listViews/All.listView-meta.xml
 force-app/main/default/objects/Kiva_Loan__c/listViews/MZ_Kiva_Approvers_Kiva_Loan.listView-meta.xml
