@@ -20,7 +20,7 @@
     </actionOverrides>
     <brand>
         <headerColor>#0070D2</headerColor>
-        <logoVersion>1</logoVersion>
+        <!-- <logoVersion>1</logoVersion> -->
         <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
     <description>App for tracking the distribution of and payments  toward Kiva loans</description>
