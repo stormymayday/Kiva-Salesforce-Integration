@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>View</actionName>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>Kiva_Loan_Record_Page</content>
+        <formFactor>Small</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+        <pageOrSobjectType>Kiva_Loan__c</pageOrSobjectType>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>Kiva_Loan_Record_Page</content>
+        <formFactor>Large</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+        <pageOrSobjectType>Kiva_Loan__c</pageOrSobjectType>
+    </actionOverrides>
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>App for tracking the distribution of and payments  toward Kiva loans</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>true</isNavPersonalizationDisabled>
+    <label>Kiva Loans</label>
+    <navType>Standard</navType>
+    <setupExperience>all</setupExperience>
+    <tabs>Kiva_Loan__c</tabs>
+    <tabs>Kiva_Client__c</tabs>
+    <tabs>Kiva_Loan_Participation__c</tabs>
+    <tabs>Kiva_Transaction__c</tabs>
+    <tabs>standard-ProcessInstanceWorkitem</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>Kiva_Collateral__c</tabs>
+    <tabs>Kiva_Journal__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Kiva_Loans_UtilityBar</utilityBar>
+</CustomApplication>
