@@ -158,7 +158,7 @@
                 <behavior>Edit</behavior>
                 <field>OwnerId</field>
             </layoutItems>
-            <layoutItems>
+            <!-- <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Posto_Administrativo__c</field>
             </layoutItems>
@@ -169,7 +169,7 @@
             <layoutItems>
                 <behavior>Readonly</behavior>
                 <field>Provincia__c</field>
-            </layoutItems>
+            </layoutItems> -->
             <layoutItems>
                 <emptySpace>true</emptySpace>
             </layoutItems>
